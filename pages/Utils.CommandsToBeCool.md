@@ -1,0 +1,9 @@
+- En esta página, anotaré algunos comando útiles para escribir las notas que siempre quise tener.
+- ### Sobre el uso de libros y referencia a estos. ^^Archivos PDF^^
+	- Por convención y buena práctica para GitHub, **no** usaremos la función integrada de *assets*; no es eficiente para tener un mismo pdf.
+	- Todos los libros en `.pdf` deben de ir en la dirección  -> `logseq-notes/resources/pdfs`
+	- Para usar el libro, hay dos pasos.
+		- Usar la jerarquía `Books/{NAME_BOOK}By{AUTHOR_NAME}`
+		- En la primera línea, poner una pequeña descripción y algunas referencias interesantes
+			- En caso de no ser posible, dejar el campo para una investigación futura.
+		- Usar el siguiente comando para la referencia: `![{NAME_BOOK}By{AUTHOR_NAME}](../resources/pdfs/{NAME_BOOK}By{AUTHOR_NAME}.pdf)`
