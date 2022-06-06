@@ -14,4 +14,7 @@ title:: Books/patternRecognitionAndMachineLearningByChristopher
     language  = "en"
   }
   ```
+- ![christopher_pattern_recognition_and_machine_learning.pdf](../resources/pdfs/christopher_pattern_recognition_and_machine_learning.pdf)
+-
+- ![christopher_pattern_recognition_and_machine_learning.pdf](../assets/christopher_pattern_recognition_and_machine_learning_1654541122068_0.pdf)
 -
