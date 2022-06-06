@@ -1,0 +1,26 @@
+- ![thomas_introduction_to_algorithms.pdf](../resources/pdfs/thomas_introduction_to_algorithms.pdf)
+- Referencia:
+  ```latex
+<<<<<<< HEAD
+  @BOOK{Cormen2022-zj,
+=======
+  @BOOK{thomas_introductionToAlgotihms,
+>>>>>>> 587a492 ([Book] Initial notes from Algorithms book)
+    title     = "Introduction to Algorithms, fourth edition",
+    author    = "Cormen, Thomas H and Leiserson, Charles E",
+    publisher = "MIT Press",
+    month     =  apr,
+    year      =  2022,
+    address   = "London, England"
+  }
+  ```
+- # Notas
+<<<<<<< HEAD
+-
+=======
+- ### Definiciones:
+	- ((629db1a6-1222-4cf5-8865-7879d3eb32dc))
+	- ((629db3d8-2566-4b06-9ffd-c272a2a94eec))
+	- ((629db436-aa57-4e97-b571-60626bec0d1d))
+	-
+>>>>>>> 587a492 ([Book] Initial notes from Algorithms book)

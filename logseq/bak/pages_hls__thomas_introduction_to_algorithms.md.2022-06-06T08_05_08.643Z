@@ -1,0 +1,15 @@
+file:: [thomas_introduction_to_algorithms.pdf](file://D:/PersonalProjects/notes/logseq-notes/logseq-notes/resources/pdfs/thomas_introduction_to_algorithms.pdf)
+file-path:: file://D:/PersonalProjects/notes/logseq-notes/logseq-notes/resources/pdfs/thomas_introduction_to_algorithms.pdf
+
+- Informally,  an algorithm  is  any  well-defined  computational  procedurethat  takes  some  value,  or  set  of  values,  as input  and  produces  somevalue,  or  set  of  values,  as output  in  a  finite  amount  of  time
+  ls-type:: annotation
+  hl-page:: 28
+  id:: 629db1a6-1222-4cf5-8865-7879d3eb32dc
+- an instance  of  a  problem1  consists  of  the  input  (satisfyingwhatever constraints are imposed in the problem statement) needed tocompute a solution to the problem
+  ls-type:: annotation
+  hl-page:: 29
+  id:: 629db3d8-2566-4b06-9ffd-c272a2a94eec
+- An  algorithm  for  a  computational  problem  is correct  if,  for  everyproblem instance provided as input, it halts—finishes  its  computing  infinite time—and outputs the correct solution to the problem instance
+  ls-type:: annotation
+  hl-page:: 29
+  id:: 629db436-aa57-4e97-b571-60626bec0d1d
