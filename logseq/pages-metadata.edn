@@ -1,25 +1,5 @@
 [{:block/name
-  "../assets/thomas_introduction_to_algorithms_1654501056869_0.pdf",
-  :block/created-at 1654502806082,
-  :block/updated-at 1654502806082}
- {:block/name "../resources",
-  :block/created-at 1654502806082,
-  :block/updated-at 1654502806082}
- {:block/name "../resources/pdfs/thomas_introduction_to_algorithms",
-  :block/created-at 1654502806082,
-  :block/updated-at 1654502806082}
- {:block/name
   "../resources/pdfs/thomas_introduction_to_algorithms.pdf",
-  :block/created-at 1654502806082,
-  :block/updated-at 1654502806082}
- {:block/name "../resources/thomas_introduction_to_algorithms.pdf",
-  :block/created-at 1654502806082,
-  :block/updated-at 1654502806082}
- {:block/name
-  "../resources/thomas_introduction_to_algorithms_1654501056869_0.pdf",
-  :block/created-at 1654502806082,
-  :block/updated-at 1654502806082}
- {:block/name "./resources/pdfs/thomas_introduction_to_algorithms",
   :block/created-at 1654502806082,
   :block/updated-at 1654502806082}
  {:block/name "a",
@@ -64,6 +44,9 @@
  {:block/name "now",
   :block/created-at 1654502806082,
   :block/updated-at 1654502806082}
+ {:block/name "python",
+  :block/created-at 1654526936045,
+  :block/updated-at 1654526936045}
  {:block/name "readme",
   :block/created-at 1654501339857,
   :block/updated-at 1654501343519}
