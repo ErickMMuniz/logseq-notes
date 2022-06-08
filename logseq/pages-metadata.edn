@@ -1,95 +1,98 @@
 [{:block/name
   "../assets/christopher_pattern_recognition_and_machine_learning_1654541122068_0.pdf",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name
   "../assets/thomas_introduction_to_algorithms_1654501056869_0.pdf",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name "../resources",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name "../resources/pdfs/thomas_introduction_to_algorithms",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name "../resources/thomas_introduction_to_algorithms.pdf",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name
   "../resources/thomas_introduction_to_algorithms_1654501056869_0.pdf",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name "./resources/pdfs/thomas_introduction_to_algorithms",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433519,
+  :block/updated-at 1654583433519}
  {:block/name "a",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name "b",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name "books",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name "books/introductiontoalgorithmsbythomas",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name
   "books/patternrecognitionandmachinelearningbychristopher",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433519,
+  :block/updated-at 1654583433520}
  {:block/name "c",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name "card",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name "contents",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433519,
+  :block/updated-at 1654583433519}
  {:block/name "doing",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name "done",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name "favorites",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name
   "hls__christopher_pattern_recognition_and_machine_learning_1654541122068_0",
-  :block/created-at 1654557682370,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433517,
+  :block/updated-at 1654583433517}
  {:block/name "in-progress",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433520,
+  :block/updated-at 1654583433520}
  {:block/name "jun 6th, 2022",
   :block/created-at 1654502844952,
   :block/updated-at 1654502933373}
+ {:block/name "jun 7th, 2022",
+  :block/created-at 1654560000000,
+  :block/updated-at 1654560000000}
  {:block/name "later",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name "now",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433520,
+  :block/updated-at 1654583433520}
  {:block/name "python",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name "readme",
   :block/created-at 1654501339857,
   :block/updated-at 1654501343519}
  {:block/name "todo",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name "utils",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433518,
+  :block/updated-at 1654583433518}
  {:block/name "utils/commandstobecool",
   :block/created-at 1654499738104,
   :block/updated-at 1654501401652}
  {:block/name "wait",
-  :block/created-at 1654557682371,
-  :block/updated-at 1654557682371}
+  :block/created-at 1654583433519,
+  :block/updated-at 1654583433519}
  {:block/name "waiting",
-  :block/created-at 1654557682371, 
-  :block/updated-at 1654557682371}]
+  :block/created-at 1654583433518, 
+  :block/updated-at 1654583433518}]
