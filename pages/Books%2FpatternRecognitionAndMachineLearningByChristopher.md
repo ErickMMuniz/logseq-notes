@@ -19,4 +19,3 @@ title:: Books/patternRecognitionAndMachineLearningByChristopher
 - ## Exercises
 	- ((629e6778-1a45-4a30-b84d-9904a50da954))
 	-
--
