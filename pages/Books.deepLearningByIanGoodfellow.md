@@ -16,6 +16,6 @@
 	  $$w^{T}x + b = b + \sum_{i=1}^{m} \alpha_i x^{T}x^{(i)} $$
 	- (PG. 166) Learning in deep neural networks requires computing the gradients of complicated functions.
 	- (PG. 168) The activation function $g$ is typically chosen to be a function that is applied element-wise, with $h_i = g(x^{T} W_{:,i} = c_{i} )$. In modern neural networks, the default recommendation is to use the **rectified linear unit**, or #ReLU (Jarrett et al, 2009; Nair and Hinton, 2010: Glorot et al., 2011a).
-	-
+	- (PG. 171) The converge point of gradient descent
 	-
 	-
