@@ -15,5 +15,5 @@
 	  id:: 62a562d9-700e-48e9-893b-437a053a9392
 	  $$w^{T}x + b = b + \sum_{i=1}^{m} \alpha_i x^{T}x^{(i)} $$
 	- (PG. 166) Learning in deep neural networks requires computing the gradients of complicated functions.
-	-
+	- (PG. 168) The activation function _g_
 	-
