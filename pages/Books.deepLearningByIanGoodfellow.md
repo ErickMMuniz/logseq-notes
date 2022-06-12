@@ -19,7 +19,9 @@
 	- (PG. 171) The converge point of gradient descent depends on the initial values of parameters.
 	- (PG. 171) The largest difference between the linear models we have see so far and neural networks is that the nonlinearity of a neural network causes most interesting loss functions to become nonconvex.
 	- (PG. 171) Convex optimization converges starting from any initial parameters (in theory-- in practice it is robust but can encounter numerical problems).
-	- (PG. 171) Stochastic
+	- (PG. 171) Stochastic gradient descent applied to nonconvex loss functions has no such convergence guarantee and is sensitive to the values of the initial parameters.
+	-
+	-
 	-
 	-
 	-
