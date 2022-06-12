@@ -14,5 +14,6 @@
 	- (PG. 138) One innovation associated with support vector machines ( #SVM ) is the ^^kernel trick^^. The kernel trick consists of observing that many machine learning algorithms can be written exclusively in terms of dot products between examples. For example, it can be shown that the linear used by the support vector machine can be re-written as 
 	  id:: 62a562d9-700e-48e9-893b-437a053a9392
 	  $$w^{T}x + b = b + \sum_{i=1}^{m} \alpha_i x^{T}x^{(i)} $$
-	- (PG. )
+	- (PG. 166) Learning in deep neural networks requires computing the gradients of complicated functions.
+	-
 	-
