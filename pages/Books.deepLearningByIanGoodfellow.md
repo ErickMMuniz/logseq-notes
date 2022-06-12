@@ -9,5 +9,5 @@
   }
   ```
 -
-- #Notas
--
+- # Notas
+	- It is best to think of feedforward networks as function approximation machines that are desgined to achieve statistical generalization,
