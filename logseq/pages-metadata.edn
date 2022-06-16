@@ -1,27 +1,32 @@
-[{:block/name
-  "../assets/christopher_pattern_recognition_and_machine_learning_1654541122068_0.pdf",
-  :block/created-at 1654845782818,
-  :block/updated-at 1654845782818}
+[{:block/name "../resources/pdfs/chr.pdf",
+  :block/created-at 1654541001679,
+  :block/updated-at 1654541001679}
+ {:block/name "../resources/pdfs/christ.pdf",
+  :block/created-at 1654541006344,
+  :block/updated-at 1654541006344}
+ {:block/name "../resources/pdfs/christo.pdf",
+  :block/created-at 1654541006969,
+  :block/updated-at 1654541006969}
+ {:block/name "../resources/pdfs/christoph.pdf",
+  :block/created-at 1654541008132,
+  :block/updated-at 1654541008132}
+ {:block/name "../resources/pdfs/christopher.pdf",
+  :block/created-at 1654541008850,
+  :block/updated-at 1654541008850}
+ {:block/name "../resources/pdfs/christopher_.pdf",
+  :block/created-at 1654541009379,
+  :block/updated-at 1654541009379}
  {:block/name
-  "../assets/thomas_introduction_to_algorithms_1654501056869_0.pdf",
-  :block/created-at 1654845782818,
-  :block/updated-at 1654845782818}
- {:block/name "../resources",
-  :block/created-at 1654845782818,
-  :block/updated-at 1654845782818}
- {:block/name "../resources/pdfs/thomas_introduction_to_algorithms",
-  :block/created-at 1654845782818,
-  :block/updated-at 1654845782818}
- {:block/name "../resources/thomas_introduction_to_algorithms.pdf",
-  :block/created-at 1654845782818,
-  :block/updated-at 1654845782818}
+  "../resources/pdfs/christopher_pattern_recognition_and_machine_learning.pdf",
+  :block/created-at 1654541054507,
+  :block/updated-at 1654541054507}
+ {:block/name "../resources/pdfs/chr .pdf",
+  :block/created-at 1654541004121,
+  :block/updated-at 1654541004121}
  {:block/name
-  "../resources/thomas_introduction_to_algorithms_1654501056869_0.pdf",
-  :block/created-at 1654845782818,
-  :block/updated-at 1654845782818}
- {:block/name "./resources/pdfs/thomas_introduction_to_algorithms",
-  :block/created-at 1654845782819,
-  :block/updated-at 1654845782819}
+  "../resources/pdfs/thomas_introduction_to_algorithms.pdf",
+  :block/created-at 1654502806082,
+  :block/updated-at 1654502806082}
  {:block/name "a",
   :block/created-at 1654845782818,
   :block/updated-at 1654845782818}
@@ -31,6 +36,9 @@
  {:block/name "books",
   :block/created-at 1654845782818,
   :block/updated-at 1654845782818}
+ {:block/name "books/deeplearningbyiangoodfellow",
+  :block/created-at 1655137225908,
+  :block/updated-at 1655137225908}
  {:block/name "books/introductiontoalgorithmsbythomas",
   :block/created-at 1654845782819,
   :block/updated-at 1654845782819}
@@ -69,9 +77,12 @@
  {:block/name "in-progress",
   :block/created-at 1654845782819,
   :block/updated-at 1654845782819}
- {:block/name "jun 10th, 2022",
-  :block/created-at 1654819200000,
-  :block/updated-at 1654819200000}
+ {:block/name "jun 13th, 2022",
+  :block/created-at 1655135555206,
+  :block/updated-at 1655135555206}
+ {:block/name "jun 14th, 2022",
+  :block/created-at 1655221996101,
+  :block/updated-at 1655221996101}
  {:block/name "jun 6th, 2022",
   :block/created-at 1654502844952,
   :block/updated-at 1654502933373}
@@ -81,21 +92,42 @@
  {:block/name "jun 8th, 2022",
   :block/created-at 1654668722453,
   :block/updated-at 1654674551764}
- {:block/name "jun 9th, 2022",
-  :block/created-at 1654732800000,
-  :block/updated-at 1654732800000}
  {:block/name "later",
   :block/created-at 1654845782818,
   :block/updated-at 1654845782818}
+ {:block/name "musica",
+  :block/created-at 1654734232633,
+  :block/updated-at 1654734232633}
  {:block/name "now",
   :block/created-at 1654845782819,
   :block/updated-at 1654845782819}
+ {:block/name "principleofmaximumlikelihood",
+  :block/created-at 1655137225907,
+  :block/updated-at 1655137225907}
+ {:block/name "programming",
+  :block/created-at 1655139849996,
+  :block/updated-at 1655139849996}
+ {:block/name "programming/git",
+  :block/created-at 1655222019860,
+  :block/updated-at 1655222328555}
+ {:block/name "programming/languages",
+  :block/created-at 1655139849996,
+  :block/updated-at 1655139849996}
+ {:block/name "programming/languages/scala",
+  :block/created-at 1655139849998,
+  :block/updated-at 1655140783877}
  {:block/name "python",
   :block/created-at 1654845782818,
   :block/updated-at 1654845782818}
  {:block/name "readme",
   :block/created-at 1654501339857,
   :block/updated-at 1654501343519}
+ {:block/name "relu",
+  :block/created-at 1655137225906,
+  :block/updated-at 1655137225906}
+ {:block/name "svm",
+  :block/created-at 1655137225905,
+  :block/updated-at 1655137225905}
  {:block/name "tesis",
   :block/created-at 1654845782818,
   :block/updated-at 1654845782818}
