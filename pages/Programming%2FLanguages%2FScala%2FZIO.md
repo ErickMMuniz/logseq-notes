@@ -2,8 +2,8 @@ title:: Programming/Languages/Scala/ZIO
 
 - # ZIO
 - Es una librería para programación **asíncrona** y **concurrente**
-	- #ZIO effects are immutable data values that model a possibly complex series
-	   of async, concurrent, resourceful, and contextual computations. _
+	- Solo existe un tipo que se llama #ZIO
+	- Los tipos de types  son efectos inmutables y #lazy que modelan, posiblemente compleja (es decir, un efecto dependiente de otro) de async, concurrent, resourceful, and contextual computations.
 		- En ZIO solo tenemo un tipo de dato 
 		  ```scala
 		  trait ZIO[R,E,A]
