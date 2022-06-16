@@ -13,3 +13,7 @@ file-path:: ../assets/Functional-Programming-in-Scala_1655418109704_0.pdf
   id:: 62abb3a7-8a92-4213-94e8-db13d50a1416
   hl-type:: area
   hl-stamp:: 1655419815668
+- Scala  Language  Specification
+  ls-type:: annotation
+  hl-page:: 51
+  id:: 62abb5e9-77bc-4894-843f-759cfa7b59ac
