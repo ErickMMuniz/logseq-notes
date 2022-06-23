@@ -5,6 +5,7 @@ title:: Programming/Languages/Scala/ZIO
 	- Solo existe un tipo que se llama #ZIO
 	- Los tipos de types  son efectos inmutables y #lazy que modelan, posiblemente compleja (es decir, un efecto dependiente de otro) de async, concurrent, resourceful, and contextual computations.
 		- En ZIO solo tenemo un tipo de dato 
+		  collapsed:: true
 		  ```scala
 		  trait ZIO[R,E,A]
 		  ```
@@ -21,7 +22,9 @@ title:: Programming/Languages/Scala/ZIO
 		- ```scala
 		  sealed trait ZIO[-R, +E, +A] extends Serializable with ZIOPlatformSpecific[R, E, A] with ZIOVersionSpecific[R, E, A]
 		  ```
-		-
+		- ```scala
+		  R -> Either[E,A]
+		  ```
 	-
 -
 -
