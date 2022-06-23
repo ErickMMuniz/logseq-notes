@@ -18,6 +18,9 @@ title:: Programming/Languages/Scala/ZIO
 			  E <- Im a possible Error
 			  A <- Im a deseable data type
 			  ```
+		- ```scala
+		  sealed trait ZIO[-R, +E, +A] extends Serializable with ZIOPlatformSpecific[R, E, A] with ZIOVersionSpecific[R, E, A]
+		  ```
 		-
 	-
 -
