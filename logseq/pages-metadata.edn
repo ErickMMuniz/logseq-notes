@@ -39,6 +39,9 @@
  {:block/name "books/deeplearningbyiangoodfellow",
   :block/created-at 1655137225908,
   :block/updated-at 1655137225908}
+ {:block/name "books/functionalprogramminginscalabypaulchiusano",
+  :block/created-at 1655418070033,
+  :block/updated-at 1655419940310}
  {:block/name "books/introductiontoalgorithmsbythomas",
   :block/created-at 1654845782819,
   :block/updated-at 1654845782819}
@@ -52,6 +55,9 @@
  {:block/name "card",
   :block/created-at 1654845782818,
   :block/updated-at 1654845782818}
+ {:block/name "case",
+  :block/created-at 1655419921424,
+  :block/updated-at 1655419921424}
  {:block/name "contents",
   :block/created-at 1654845782819,
   :block/updated-at 1654845782819}
@@ -74,6 +80,9 @@
   "hls__christopher_pattern_recognition_and_machine_learning_1654541122068_0",
   :block/created-at 1654845782818,
   :block/updated-at 1654845782818}
+ {:block/name "hls__functional-programming-in-scala_1655418109704_0",
+  :block/created-at 1655419691831,
+  :block/updated-at 1655419691831}
  {:block/name "in-progress",
   :block/created-at 1654845782819,
   :block/updated-at 1654845782819}
@@ -83,6 +92,9 @@
  {:block/name "jun 14th, 2022",
   :block/created-at 1655221996101,
   :block/updated-at 1655221996101}
+ {:block/name "jun 16th, 2022",
+  :block/created-at 1655392085339,
+  :block/updated-at 1655392085339}
  {:block/name "jun 6th, 2022",
   :block/created-at 1654502844952,
   :block/updated-at 1654502933373}
@@ -95,12 +107,18 @@
  {:block/name "later",
   :block/created-at 1654845782818,
   :block/updated-at 1654845782818}
+ {:block/name "lazy",
+  :block/created-at 1655405691102,
+  :block/updated-at 1655405691102}
  {:block/name "musica",
   :block/created-at 1654734232633,
   :block/updated-at 1654734232633}
  {:block/name "now",
   :block/created-at 1654845782819,
   :block/updated-at 1654845782819}
+ {:block/name "object",
+  :block/created-at 1655419923801,
+  :block/updated-at 1655419923801}
  {:block/name "principleofmaximumlikelihood",
   :block/created-at 1655137225907,
   :block/updated-at 1655137225907}
@@ -116,6 +134,9 @@
  {:block/name "programming/languages/scala",
   :block/created-at 1655139849998,
   :block/updated-at 1655140783877}
+ {:block/name "programming/languages/scala/zio",
+  :block/created-at 1655392108929,
+  :block/updated-at 1655405760130}
  {:block/name "python",
   :block/created-at 1654845782818,
   :block/updated-at 1654845782818}
@@ -125,6 +146,12 @@
  {:block/name "relu",
   :block/created-at 1655137225906,
   :block/updated-at 1655137225906}
+ {:block/name "scala",
+  :block/created-at 1655419603827,
+  :block/updated-at 1655419603827}
+ {:block/name "sealed",
+  :block/created-at 1655419897871,
+  :block/updated-at 1655419897871}
  {:block/name "svm",
   :block/created-at 1655137225905,
   :block/updated-at 1655137225905}
@@ -134,6 +161,9 @@
  {:block/name "todo",
   :block/created-at 1654845782819,
   :block/updated-at 1654845782819}
+ {:block/name "trait",
+  :block/created-at 1655419606949,
+  :block/updated-at 1655419606949}
  {:block/name "utils",
   :block/created-at 1654845782818,
   :block/updated-at 1654845782818}
@@ -144,5 +174,8 @@
   :block/created-at 1654845782819,
   :block/updated-at 1654845782819}
  {:block/name "waiting",
-  :block/created-at 1654845782818, 
-  :block/updated-at 1654845782818}]
+  :block/created-at 1654845782818,
+  :block/updated-at 1654845782818}
+ {:block/name "zio",
+  :block/created-at 1655401930672, 
+  :block/updated-at 1655401930672}]
